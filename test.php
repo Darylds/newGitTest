@@ -2,6 +2,8 @@
 
 echo "This is just a test of GIT. MAIN PAGE";
 
-echo "New Branch 2";
+echo "Staging";
+
+echo "This is out NEW/Staging";
 
 ?>
